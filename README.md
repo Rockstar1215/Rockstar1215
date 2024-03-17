@@ -1,5 +1,13 @@
 # 💫 About Me:
-As a 3rd-year BE CSE student, I am on a journey of discovery, both in academia and beyond. <br>Passionate about the endless possibilities of technology, I immerse myself in the world of software development and problem-solving with relentless curiosity.<br> Beyond my academic pursuits, I'm driven by a desire to innovate, create, and leave a lasting impact in the tech sphere.<br> Let's embark on this journey together and shape the future.<br>
+🎓 As a 3rd-year BE CSE student, I am on a journey of discovery, both in academia and beyond.
+
+🚀 Passionate about the endless possibilities of technology, I immerse myself in the world of software development and problem-solving with relentless curiosity.
+
+💻 Beyond my academic pursuits, I'm driven by a desire to innovate, create, and leave a lasting impact in the tech sphere.
+
+📱 Passionate towards Android app and web development, I constantly seek to push the boundaries of what's possible in the digital realm.
+
+🌐 Let's embark on this journey together and shape the future. 🚀<br>
 
 
 ## 🌐 Socials:
