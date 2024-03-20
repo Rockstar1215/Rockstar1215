@@ -36,6 +36,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rockstar1215&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/Rockstar1215/Rockstar1215/output/snake.svg" alt="Snake animation" />
 
-###
+
+
