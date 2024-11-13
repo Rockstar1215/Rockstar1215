@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 As a 3rd-year BE CSE student, I am on a journey of discovery, both in academia and beyond.
+🎓 As a 4th-year BE CSE student, I am on a journey of discovery, both in academia and beyond.
 
 🚀 Passionate about the endless possibilities of technology, I immerse myself in the world of software development and problem-solving with relentless curiosity.
 
